@@ -20,7 +20,7 @@ gioHangBo gh ;
 				<td><%=g.getTacGia() %></td>
 				<td><%=g.getGia() %></td>
 				<td><%=g.getSoLuong() %></td>
-				// tao form co 1 the input de sua so luong
+				/* tao form co 1 the input de sua so luong*/
 				<td><form>
 						
 					</form>
